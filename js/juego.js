@@ -1,5 +1,5 @@
 // Arreglo que contiene las instrucciones del juego 
-var instrucciones = ['Ordená la imagen de BMO', 'Usá las flechas del teclado', 'Utilizá la imagen de abajo como referencia','¿En cuántos movimientos podés hacerlo?'];
+var instrucciones = ['Ordená la imagen', 'Usá las flechas del teclado', 'Utilizá la imagen de abajo como referencia','¿En cuántos movimientos podés hacerlo?'];
 // Arreglo para ir guardando los movimientos que se vayan realizando
 var movimientos = [];
 
